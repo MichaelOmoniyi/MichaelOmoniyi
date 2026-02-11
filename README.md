@@ -45,9 +45,9 @@ I'm a Systems Engineering student at the University of Lagos 🇳🇬 with over 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MichaelOmoniyi&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MichaelOmoniyi&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
