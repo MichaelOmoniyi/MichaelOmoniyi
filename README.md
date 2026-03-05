@@ -4,7 +4,7 @@
 
 🚀 Software Engineer | Systems Thinker | Builder of Scalable Solutions  
 
-<img src="https://komarev.com/ghpvc/?username=MichaelOmoniyi&label=Profile%20views&color=0e75b6&style=flat" alt="MichaelOmoniyi" />
+<!-- <img src="https://komarev.com/ghpvc/?username=MichaelOmoniyi&label=Profile%20views&color=0e75b6&style=flat" alt="MichaelOmoniyi" /> -->
 
 <br/>
 
