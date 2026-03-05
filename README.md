@@ -2,7 +2,7 @@
 
 # Hey 👋 I'm Michael "Omons" Omoniyi  
 
-🚀 Software Engineer | Frontend Developer | Builder of Useful Things  
+🚀 Software Engineer | Systems Thinker | Builder of Scalable Solutions  
 
 <img src="https://komarev.com/ghpvc/?username=MichaelOmoniyi&label=Profile%20views&color=0e75b6&style=flat" alt="MichaelOmoniyi" />
 
@@ -21,20 +21,22 @@
 
 ### 👨‍💻 About Me
 
-I'm a Systems Engineering student at the University of Lagos 🇳🇬 with over **2 years of experience in Frontend Development**. I enjoy building clean, scalable, and user-focused applications, contributing to open source, and growing through real-world projects.
+I'm a Systems Engineering student at the University of Lagos 🇳🇬 passionate about building reliable, scalable, and maintainable software systems.
 
-- 💻 Frontend Developer (React / Next.js / Vue / Nuxt.js)  
-- 🧠 Exploring Data Structures & Algorithms  
-- 🔧 I love building tools that solve real problems  
-- 🌱 Improving full-stack & system design skills  
-- ⚡ Blending tech, design & community
+With over 2 years of hands-on development experience, I focus on writing clean code, designing efficient systems, and continuously strengthening my foundations in algorithms, data structures, and software architecture.
+
+- 🧠 Strong interest in Data Structures & Algorithms  
+- 🏗️ Learning system design & backend architecture  
+- 🔧 Building full-stack applications and engineering tools  
+- 📈 Focused on performance, scalability, and maintainability  
+- 🌍 Contributing to open source and collaborative projects  
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Engineering Toolkit
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,react,nextjs,ts,js,html,css,tailwind,postgres,git,github,vercel,supabase" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,postgres,nodejs,git,github,vercel,supabase,html,css,tailwind" />
 </p>
 
 ---
@@ -45,17 +47,14 @@ I'm a Systems Engineering student at the University of Lagos 🇳🇬 with over 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MichaelOmoniyi&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MichaelOmoniyi&layout=compact&theme=tokyonight&hide_border=true" />
-</p> -->
-
 ---
 
-### 🚧 What I’m Working On
+### 🚧 Currently Focused On
 
-- Real-world apps & dashboards  
-- Open source contributions  
-- Sharpening problem-solving & system thinking  
+- Designing scalable systems  
+- Improving problem-solving & algorithmic thinking  
+- Building production-ready full-stack applications  
+- Writing cleaner, testable, maintainable code  
 
 ---
 
