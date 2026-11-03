@@ -23,7 +23,7 @@
 
 I'm a Systems Engineering student at the University of Lagos 🇳🇬 passionate about building reliable, scalable, and maintainable software systems.
 
-With over 2 years of hands-on development experience, I focus on writing clean code, designing efficient systems, and continuously strengthening my foundations in algorithms, data structures, and software architecture.
+With over 5 years of hands-on development experience, I focus on writing clean code, designing efficient systems, and continuously strengthening my foundations in algorithms, data structures, and software architecture.
 
 - 🧠 Strong interest in Data Structures & Algorithms  
 - 🏗️ Learning system design & backend architecture  
